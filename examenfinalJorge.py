@@ -1,7 +1,7 @@
 #Los archivos se deben de encontrar en la misma carpeta
 
-print("ingrese mts^2 de aspas:")
-mts=int(input("mts^2: "))
+print("ingrese área de aspas:")
+mts=int(input("área: "))
 valor = float(mts*float(2.7))
 print("el precio de su cantidad de mts^2 es: $"+str(round(valor),))
 
